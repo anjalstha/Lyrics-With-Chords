@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540678636450",
+    "project_id": "mero-notes-flutter-project",
+    "storage_bucket": "mero-notes-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540678636450:android:39d160a48ab99e8a5828fb",
+        "android_client_info": {
+          "package_name": "com.example.learningdart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540678636450-r46iujk06kki02puh4cce3mib5fqj22u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtuOwlYsSppe0faRBgDX_S1c-u46loMEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540678636450-r46iujk06kki02puh4cce3mib5fqj22u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
